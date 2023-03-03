@@ -1,1 +1,2 @@
 primera línea de texto
+segunda línea de texto
