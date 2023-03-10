@@ -1,3 +1,4 @@
 primera línea de texto
 segunda línea de texto
 caso 1 de fusión de ramas
+caso 1 de fusión de ramas
